@@ -9,6 +9,7 @@ mumu环境模拟
 MuMu-Environment 是一个 Android 项目，旨在提供简洁的悬浮窗交互界面，并探索应用图片展示、深色模式和网页图片等功能。
 
 <img width="1260" height="2800" alt="Screenshot_20261101_151930" src="https://github.com/user-attachments/assets/09de9e18-e52c-4aeb-8307-6d02b865a9dd" />
+<img width="951" height="300" alt="Screenshot_2026_1101_152011" src="https://github.com/user-attachments/assets/65ae7dff-30e5-45fe-af3a-2cc41b8a219d" />
 
 ✨ 功能与计划
 
